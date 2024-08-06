@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\jmbas\\source\\MyWeatherSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D66B9BA2-2EA3-4915-ACAC-FC7BF0265AB9}|MyWeatherSite\\MyWeatherSite.csproj|e:\\users\\jmbas\\source\\myweathersite\\myweathersite\\weather.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D66B9BA2-2EA3-4915-ACAC-FC7BF0265AB9}|MyWeatherSite\\MyWeatherSite.csproj|solutionrelative:myweathersite\\weather.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66B9BA2-2EA3-4915-ACAC-FC7BF0265AB9}|MyWeatherSite\\MyWeatherSite.csproj|e:\\users\\jmbas\\source\\myweathersite\\myweathersite\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D66B9BA2-2EA3-4915-ACAC-FC7BF0265AB9}|MyWeatherSite\\MyWeatherSite.csproj|solutionrelative:myweathersite\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.aspx",
+              "DocumentMoniker": "E:\\Users\\jmbas\\source\\MyWeatherSite\\MyWeatherSite\\Weather.aspx",
+              "RelativeDocumentMoniker": "MyWeatherSite\\Weather.aspx",
+              "ToolTip": "E:\\Users\\jmbas\\source\\MyWeatherSite\\MyWeatherSite\\Weather.aspx",
+              "RelativeToolTip": "MyWeatherSite\\Weather.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T14:44:21.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "E:\\Users\\jmbas\\source\\MyWeatherSite\\MyWeatherSite\\Default.aspx",
+              "RelativeDocumentMoniker": "MyWeatherSite\\Default.aspx",
+              "ToolTip": "E:\\Users\\jmbas\\source\\MyWeatherSite\\MyWeatherSite\\Default.aspx",
+              "RelativeToolTip": "MyWeatherSite\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T14:32:10.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+# Ignore NuGet Packages folder
+packages/
+*.nupkg
+*.nuspec
+*.snupkg
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.sln.docstates
+
+# Ignore WebForms generated files
+**/Generated_Code/
+
+# Ignore configuration files
+appsettings*.json
+
+# Ignore publish output
+publish/
+.vscode/
+.vs/
+
+# Ignore IDE-specific folders
+.idea/
+*.csproj.user
+
+# Ignore Visual Studio working folder
+.vscode/
+
+# Ignore Rider working folder
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore log files
+*.log
+
+# Ignore deployment files
+*.publishsettings
+.deploy/
+
+# Ignore Resharper files
+_ReSharper*/
